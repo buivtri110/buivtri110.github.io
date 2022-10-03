@@ -51,8 +51,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 # Author config
 # 作者配置
 [author]
-  name = "xxxx"
-  email = ""
+  name = "Bui.V.Tri"
+  email = "buivtri110@gmail.com"
   link = ""
 
 # Menu config
@@ -106,7 +106,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
   # 网站标题, 用于 Open Graph 和 Twitter Cards
-  title = "LoveIt"
+  title = "Bui.V.Tri"
   # website description for RSS, SEO, Open Graph and Twitter Cards
   # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
   description = "Hugo theme - LoveIt"
@@ -160,7 +160,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     author = true
     # site creation time
     # 网站创立年份
-    since = 2019
+    since = 2022
     # ICP info only in China (HTML format is supported)
     # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
     icp = ""
@@ -199,7 +199,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
     # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-    title = "LoveIt"
+    title = "Bui.V.Tri"
     # whether to omit favicon resource links
     # 是否隐藏网站图标资源链接
     noFavicon = false
@@ -267,7 +267,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       title = ""
       # subtitle shown in home page (HTML format is supported)
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+      subtitle = "Life. Techno..."
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
       typeit = true
